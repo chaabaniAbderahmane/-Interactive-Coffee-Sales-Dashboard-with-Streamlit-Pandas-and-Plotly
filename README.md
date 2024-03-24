@@ -1,7 +1,7 @@
 # -Interactive-Coffee-Sales-Dashboard-with-Streamlit-Pandas-and-Plotly
 
 
-This code creates an interactive dashboard for analyzing coffee sales data using the Streamlit framework, Pandas for data manipulation, and Plotly for data visualization. The data was initially prepared and cleaned using Excel before being utilized in this application. The primary functionalities of the code are:
+This code creates an interactive dashboard for analyzing coffee sales data in usa , uk and ireland using the Streamlit framework, Pandas for data manipulation, and Plotly for data visualization. The data was initially prepared and cleaned using Excel before being utilized in this application. The primary functionalities of the code are:
 
 Importing necessary libraries: pandas, plotly.express, streamlit, random, and plotly.graph_objects.
 Setting up the Streamlit app configuration, including the page title, icon, and layout.
