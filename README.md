@@ -4,7 +4,9 @@
 This code creates an interactive dashboard for analyzing coffee sales data in usa , uk and ireland using the Streamlit framework, Pandas for data manipulation, and Plotly for data visualization. The data was initially prepared and cleaned using Excel before being utilized in this application. The primary functionalities of the code are:
 
 -Importing necessary libraries: pandas, plotly.express, streamlit, random, and plotly.graph_objects.
+<hr>
 -Setting up the Streamlit app configuration, including the page title, icon, and layout.
+<hr>
 -Defining a function to read data from an Excel file (after data preparation and cleaning in Excel) and caching the data for efficient processing.
 -Adding random ratings to the dataset for demonstration purposes.
 -Renaming columns and converting data types for better readability and processing.
